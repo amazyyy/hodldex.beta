@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "./this_need_to_be_set_when_building/precache-manifest.4f8d78deb493e34be191a4720b91028d.js"
+  "./hodldex.beta/precache-manifest.18e489757486b02805e32b993442d515.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("./this_need_to_be_set_when_building/index.html", {
+workbox.routing.registerNavigationRoute("./hodldex.beta/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
