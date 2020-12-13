@@ -1,0 +1,1 @@
+amazyyy.com/hodldex.beta
