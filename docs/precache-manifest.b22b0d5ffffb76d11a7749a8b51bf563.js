@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "459b65289532c56a9963",
-    "url": "./static/css/main.7619165e.chunk.css"
+    "revision": "57b9eb4f13796e4a559f",
+    "url": "./static/css/main.31312a96.chunk.css"
   },
   {
-    "revision": "459b65289532c56a9963",
-    "url": "./static/js/main.459b6528.chunk.js"
+    "revision": "57b9eb4f13796e4a559f",
+    "url": "./static/js/main.57b9eb4f.chunk.js"
   },
   {
     "revision": "e957b30cf422a3c9ea2d",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "./static/media/youtube-icon.02b6e4bd.svg"
   },
   {
-    "revision": "2fc8d01097a4a4709cedec26939b0cda",
+    "revision": "050ee07acf8b7724e1097ec66800236a",
     "url": "./index.html"
   }
 ];
