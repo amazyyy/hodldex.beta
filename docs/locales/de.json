@@ -5,7 +5,8 @@
     "trade": "Handel",
     "explorer": "Explorer",
     "settings": "Einstellungen",
-    "calculator": "Calculator"
+    "calculator": "Calculator",
+    "joinUs": "Join Us"
   },
   "settings": {
     "title": "Einstellungen",
@@ -149,5 +150,8 @@
     "disclaimer": {
       "title": "Calculator Disclaimer"
     }
+  },
+  "joinUs": {
+    "title": "Join Us"
   }
 }

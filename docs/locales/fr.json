@@ -8,7 +8,8 @@
     "trade": "Échanger",
     "explorer": "Explorer",
     "settings": "Paramêtres",
-    "calculator": "Calculator"
+    "calculator": "Calculator",
+    "joinUs": "Join Us"
   },
   "settings": {
     "title": "Paramètres",
@@ -154,5 +155,8 @@
     "disclaimer": {
       "title": "Calculator Disclaimer"
     }
+  },
+  "joinUs": {
+    "title": "Join Us"
   }
 }

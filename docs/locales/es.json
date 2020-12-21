@@ -8,7 +8,8 @@
     "trade": "Intercambiar",
     "explorer": "Explorador",
     "settings": "Configuraciones",
-    "calculator": "Calculator"
+    "calculator": "Calculator",
+    "joinUs": "Join Us"
   },
   "settings": {
     "title": "Configuraciones",
@@ -154,5 +155,8 @@
     "disclaimer": {
       "title": "Calculator Disclaimer"
     }
+  },
+  "joinUs": {
+    "title": "Join Us"
   }
 }
