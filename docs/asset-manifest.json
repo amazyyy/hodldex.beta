@@ -1,10 +1,10 @@
 {
-  "main.css": "./static/css/main.ea1b57e0.chunk.css",
-  "main.js": "./static/js/main.63f2fbe1.chunk.js",
-  "main.js.map": "./static/js/main.63f2fbe1.chunk.js.map",
+  "main.css": "./static/css/main.db8e069b.chunk.css",
+  "main.js": "./static/js/main.cb5e1d04.chunk.js",
+  "main.js.map": "./static/js/main.cb5e1d04.chunk.js.map",
   "static/css/1.70a49956.chunk.css": "./static/css/1.70a49956.chunk.css",
-  "static/js/1.51695988.chunk.js": "./static/js/1.51695988.chunk.js",
-  "static/js/1.51695988.chunk.js.map": "./static/js/1.51695988.chunk.js.map",
+  "static/js/1.9481bc48.chunk.js": "./static/js/1.9481bc48.chunk.js",
+  "static/js/1.9481bc48.chunk.js.map": "./static/js/1.9481bc48.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
   "static/media/telegram-icon.svg": "./static/media/telegram-icon.64a2ef99.svg",
@@ -30,9 +30,9 @@
   "static/media/twitter-icon.svg": "./static/media/twitter-icon.d037de3e.svg",
   "static/media/wallet-page.svg": "./static/media/wallet-page.fe80564a.svg",
   "static/media/youtube-icon.svg": "./static/media/youtube-icon.02b6e4bd.svg",
-  "static/css/main.ea1b57e0.chunk.css.map": "./static/css/main.ea1b57e0.chunk.css.map",
+  "static/css/main.db8e069b.chunk.css.map": "./static/css/main.db8e069b.chunk.css.map",
   "static/css/1.70a49956.chunk.css.map": "./static/css/1.70a49956.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.0fb407bdfbac610493200ba8b4fdd4cd.js": "./precache-manifest.0fb407bdfbac610493200ba8b4fdd4cd.js",
+  "precache-manifest.599d1153448c3b094c94ed48b4ab064f.js": "./precache-manifest.599d1153448c3b094c94ed48b4ab064f.js",
   "service-worker.js": "./service-worker.js"
 }
