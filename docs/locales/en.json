@@ -15,7 +15,13 @@
     "explorer": "Explorer",
     "settings": "Settings",
     "calculator": "Calculator",
-    "joinUs": "Join Us"
+    "graph": "Graph",
+    "joinUs": "Join Us",
+    "footer": {
+      "website": "Website",
+      "termsOfUse": "Terms of use",
+      "whitepaper": "Whitepaper"
+    }
   },
   "settings": {
     "title": "Settings",
@@ -31,6 +37,10 @@
       "circulation": "Circulation",
       "hodlcPrice": "HODLC Price"
     }
+  },
+  "wallet-connect": {
+    "choose": "Choose your wallet",
+    "btn": "Connect to a wallet"
   },
   "wallet": {
     "balances": {
@@ -49,7 +59,8 @@
           "btn2": "To HODLC",
           "approveToRedeem": "are approved to redeem"
         }
-      }
+      },
+      "claim": "Claim"
     },
     "notify": {
       "nothing": "Nothing happens :)",
@@ -75,7 +86,25 @@
       }
     },
     "modal": {
-      "max": "Max"
+      "max": "Max",
+      "title": {
+        "Deposit": "deposit",
+        "Withdraw": "withdraw",
+        "To HODLT": "To HODLT",
+        "To HODLC": "To HODLC",
+        "Approve": "Approve"
+      },
+      "btn": {
+        "cancel": "Cancel",
+        "yes": "Yes"
+      },
+      "content": {
+        "amount": "amount",
+        "estimated": "estimated"
+      }
+    },
+    "eventlist" : {
+
     }
   },
   "eventList": {
@@ -98,6 +127,24 @@
         "address": "Address",
         "block": "Block",
         "action": "Action"
+      },
+      "content": {
+        "type" : {
+          "SellOrderFilled": "Buy",
+          "BuyOrderFilled": "Sell",
+          "To HODLC": "To HODLC",
+          "To HODLT": "To HODLT",
+          "deposit": "Deposit",
+          "withdraw": "Withdraw",
+          "approve": "Approve",
+          "SellOrderRefunded": "Sell Order Refunded",
+          "BuyOrderRefunded": "Buy Order Refunded",
+          "SellOrderOpened": "Sell Order Opened",
+          "BuyOrderOpened": "Buy Order Opened",
+          "BuyFromReserve": "Buy From Reserve",
+          "SellOrderCancelled": "Sell Order Cancelled",
+          "BuyOrderCancelled": "Buy Order Cancelled"
+        }
       }
     }
   },
@@ -128,8 +175,8 @@
     "orderBook": {
       "global": "Global Orders",
       "myOrders": "My Orders",
-      "singleOrder": "Total {{amount}} {{units}} in the queue",
-      "multiOrders": "Total {{amount}} {{units}}s in the queue",
+      "singleOrder": "Total {{amount}} {{units}}",
+      "multiOrders": "Total {{amount}} {{units}}s",
       "title": {
         "orderId": "Order Id",
         "price": "Price",
@@ -159,11 +206,93 @@
     }
   },
   "calculator": {
+    "title": "Calculator",
     "disclaimer": {
-      "title": "Calculator Disclaimer"
+      "title": "Calculator Disclaimer",
+      "cancel": "Cancel",
+      "agree": "I agree"
+    },
+    "mode": {
+      "simple": "Simple Mode",
+      "resurring": "Recurring Mode",
+      "cashOut": "Cash Out Mode"
+    },
+    "simple": {
+      "form": {
+        "inputAmount": {
+          "1": "If I hold",
+          "2": "for",
+          "3": "days"
+        },
+        "aboutTransactionPerDay": {
+          "1": "and I assume",
+          "2": "transactions take place every day."
+        },
+        "references": "References: there are about <b>{{avgTransaction}}</b> transactions per day in the last <b>{{avgDay}}</b> days"
+      },
+      "summary": {
+        "endAmount": "The value is estimated to become <b>{{result}} USD</b> at the end of the period.",
+        "endGrowth": "The total potential growth is <b>{{result}} USD</b> at the end of the period.",
+        "endPercentageIncrease": "The potential percentage increase is <b>{{result}} %</b> at the end of the period."
+      }
+    },
+    "recurring": {
+      "form": {
+        "inputAmount": {
+          "1": "If I deposit",
+          "1-options": {
+            "daily": "daily",
+            "weekly": "weekly",
+            "monthly": "monthly"
+          },
+          "2": "for",
+          "3": "months"
+        },
+        "aboutTransactionPerDay": {
+          "1": "and I assume",
+          "2": "transactions take place every day."
+        },
+        "references": "References: there are about <b>{{avgTransaction}}</b> transactions per day in the last <b>{{avgDay}}</b> days"
+      },
+      "summary": {
+        "endAmount": "The value is estimated to become <b>{{result}} USD</b> at the end of the period.",
+        "endGrowth": "The total potential growth is <b>{{result}} USD</b> at the end of the period.",
+        "endPercentageIncrease": "The potential percentage increase is <b>{{result}} %</b> at the end of the period."
+      }
+    },
+    "cashOut": {
+      "form": {
+        "inputAmount": {
+          "1": "If I hold",
+          "2": "for",
+          "3": "days"
+        },
+        "aboutTransactionPerDay": {
+          "1": "and I assume",
+          "2": "transactions take place every day"
+        },
+        "references": "References: there are about <b>{{avgTransaction}}</b> transactions per day in the last <b>{{avgDay}}</b> days",
+        "cashOutFrquency": {
+          "1": "I plan to cash out",
+          "1-options": {
+            "daily": "daily",
+            "weekly": "weekly",
+            "monthly": "monthly"
+          }
+        }
+      },
+      "summary": {
+        "canCashOutEvg": "I can cash out on average <b>{{result}} USD</b> {{cashOutPeriod}}",
+        "endCashOutAmount": "I will be cashing out <b>{{result}} USD</b> in total and my HODLC value will remain the same at the end of the period.",
+        "endHODLCAmount": "I will hold <b>{{result}}</b> HODLC at the end of the period."
+      }
     }
   },
   "joinUs": {
-    "title": "Join Us"
+    "title": "Join Us",
+    "content" : {
+      "title": "Official Social Media Groups",
+      "close": "Close"
+    }
   }
 }
