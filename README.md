@@ -1,1 +1,1 @@
-amazyyy.com/hodldex.beta
+https://amazyyy.com/hodldex.beta
