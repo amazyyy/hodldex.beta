@@ -1,10 +1,10 @@
 {
-  "main.css": "./static/css/main.2baba6ac.chunk.css",
-  "main.js": "./static/js/main.f743ee97.chunk.js",
-  "main.js.map": "./static/js/main.f743ee97.chunk.js.map",
+  "main.css": "./static/css/main.40700829.chunk.css",
+  "main.js": "./static/js/main.21663c6c.chunk.js",
+  "main.js.map": "./static/js/main.21663c6c.chunk.js.map",
   "static/css/1.bc349701.chunk.css": "./static/css/1.bc349701.chunk.css",
-  "static/js/1.1ffdb2e5.chunk.js": "./static/js/1.1ffdb2e5.chunk.js",
-  "static/js/1.1ffdb2e5.chunk.js.map": "./static/js/1.1ffdb2e5.chunk.js.map",
+  "static/js/1.f2cd8da1.chunk.js": "./static/js/1.f2cd8da1.chunk.js",
+  "static/js/1.f2cd8da1.chunk.js.map": "./static/js/1.f2cd8da1.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
   "static/media/getFetch.cjs": "./static/media/getFetch.013f0b90.cjs",
@@ -31,9 +31,9 @@
   "static/media/twitter-icon.svg": "./static/media/twitter-icon.d037de3e.svg",
   "static/media/wallet-page.svg": "./static/media/wallet-page.fe80564a.svg",
   "static/media/youtube-icon.svg": "./static/media/youtube-icon.02b6e4bd.svg",
-  "static/css/main.2baba6ac.chunk.css.map": "./static/css/main.2baba6ac.chunk.css.map",
+  "static/css/main.40700829.chunk.css.map": "./static/css/main.40700829.chunk.css.map",
   "static/css/1.bc349701.chunk.css.map": "./static/css/1.bc349701.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.8117b84b586ff2d206702df2eb582f77.js": "./precache-manifest.8117b84b586ff2d206702df2eb582f77.js",
+  "precache-manifest.9f40170b5569bb616a305da64c57cfc3.js": "./precache-manifest.9f40170b5569bb616a305da64c57cfc3.js",
   "service-worker.js": "./service-worker.js"
 }
