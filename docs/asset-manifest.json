@@ -1,7 +1,7 @@
 {
-  "main.css": "./static/css/main.7d461762.chunk.css",
-  "main.js": "./static/js/main.c0c4df3d.chunk.js",
-  "main.js.map": "./static/js/main.c0c4df3d.chunk.js.map",
+  "main.css": "./static/css/main.84869e72.chunk.css",
+  "main.js": "./static/js/main.70e4a083.chunk.js",
+  "main.js.map": "./static/js/main.70e4a083.chunk.js.map",
   "static/css/1.a4887d4e.chunk.css": "./static/css/1.a4887d4e.chunk.css",
   "static/js/1.d7fa095b.chunk.js": "./static/js/1.d7fa095b.chunk.js",
   "static/js/1.d7fa095b.chunk.js.map": "./static/js/1.d7fa095b.chunk.js.map",
@@ -33,9 +33,9 @@
   "static/media/twitter-icon.svg": "./static/media/twitter-icon.d037de3e.svg",
   "static/media/wallet-page.svg": "./static/media/wallet-page.fe80564a.svg",
   "static/media/youtube-icon.svg": "./static/media/youtube-icon.02b6e4bd.svg",
-  "static/css/main.7d461762.chunk.css.map": "./static/css/main.7d461762.chunk.css.map",
+  "static/css/main.84869e72.chunk.css.map": "./static/css/main.84869e72.chunk.css.map",
   "static/css/1.a4887d4e.chunk.css.map": "./static/css/1.a4887d4e.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.a7523d5f7b50149552c34c0df27f3c8b.js": "./precache-manifest.a7523d5f7b50149552c34c0df27f3c8b.js",
+  "precache-manifest.82942712ddf64f4c08dc5f2252e005df.js": "./precache-manifest.82942712ddf64f4c08dc5f2252e005df.js",
   "service-worker.js": "./service-worker.js"
 }
